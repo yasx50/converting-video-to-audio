@@ -1,4 +1,1 @@
-# converting-video-to-audio
-here is a code that converts video to audio mp3 or mp4 (whatever format you want)<br>
-
-in py file i have mentioned all steps
+This repository contains a simple yet efficient tool for converting video files to audio files.Whether you need to extract audio from a video for podcasting, transcription, or any other purpose, this tool provides an easy-to-use solution.
